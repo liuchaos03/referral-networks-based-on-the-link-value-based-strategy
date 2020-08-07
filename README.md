@@ -1,2 +1,2 @@
-# referral-networks-based-on-the-link-value-based-strategy
-Code of referral networks based on the link-value-based strategy, Matlab R2016b
+# Documentation of Code
+The program is written and executed under MATLAB 2016 b
